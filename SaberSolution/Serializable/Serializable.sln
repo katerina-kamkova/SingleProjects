@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializable", "Serializable\Serializable.csproj", "{9BDB2FE3-A29A-4BAB-9E09-AB6D8FD1F7C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializableTests", "SerializableTests\SerializableTests.csproj", "{FFFBC8F7-A3B8-4D5B-A5F3-DE9EB8DB31EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BDB2FE3-A29A-4BAB-9E09-AB6D8FD1F7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDB2FE3-A29A-4BAB-9E09-AB6D8FD1F7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDB2FE3-A29A-4BAB-9E09-AB6D8FD1F7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDB2FE3-A29A-4BAB-9E09-AB6D8FD1F7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFBC8F7-A3B8-4D5B-A5F3-DE9EB8DB31EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFBC8F7-A3B8-4D5B-A5F3-DE9EB8DB31EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFBC8F7-A3B8-4D5B-A5F3-DE9EB8DB31EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFBC8F7-A3B8-4D5B-A5F3-DE9EB8DB31EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
